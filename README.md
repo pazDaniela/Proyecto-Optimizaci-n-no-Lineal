@@ -7,20 +7,14 @@
 </br>
 </br>
 
-# MAT281 - Aplicaciones de la Matemática en la Ingeniería
-
-## Portafolio Personal
+# MAT279 - Optimización no lineal
+## Green Vehicle routing problem (G-VRP)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoguedao/mat281_portfolio_template/master?urlpath=lab)
 
-* __John Titor__ : [My Page](https://www.linkedin.com/in/williamhgates/)
-
-* __Repositorio Curso__:
-    - [2019](https://github.com/aoguedao/mat281_2019S2)
-    - [2020](https://github.com/aoguedao/mat281_2020S2)
+* _Obryan Cardenas_
+* _Cloe Romero_
+* _Daniela Díaz_
 
 ## Setup
-
-Las instrucciones de uso se encuentran en [este](setup.md) siguiente archivo. 
-
-Para aquellos usuarios de Windows que quieran sacar partido, se recomienda mirar también [este](wsl_ds_toolkit.md) archivo, mostrando un entorno de trabajo con WSL.
+Propuesta de proyecto que se llevará a cabo. Incluye una revisión parcial del green vehicle routing problem (G-VRP) el cual es una variante del VRP que consiste en encontrar rutas para que flotas de vehículos distribuyan encomiendas minimizando la distancia recorrida sujeto a limitaciones de combustible. Se realiza un pequeño análisis del estado del arte del problema mencionado algunos métodos de resolución y se plantea la formulación original.
